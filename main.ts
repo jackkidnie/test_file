@@ -9,7 +9,7 @@
 namespace hello {
     //% block
     export function helloWorld() {
-
+        return 100;
     }
 
     // note that Caml casing yields lower case
